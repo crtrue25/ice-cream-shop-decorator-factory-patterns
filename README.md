@@ -20,4 +20,5 @@ for their item.
 
 <b>Sample Output:</b>
 
-<img width="281" alt="Screen Shot 2022-03-31 at 10 32 33 AM" src="https://user-images.githubusercontent.com/47539948/161115444-61ef60e5-246b-47af-9590-db842bf5e25b.png">
+<img width="281" alt="Screen Shot 2022-03-31 at 10 51 34 AM" src="https://user-images.githubusercontent.com/47539948/161118771-67ec3cb7-6cfd-4aa4-919f-21d196c7f4a0.png">
+
