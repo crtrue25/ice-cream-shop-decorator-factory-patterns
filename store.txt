@@ -1,0 +1,25 @@
+Ice Cream Shop
+
+In this world we will pretend there are no limits on scoops
+
+Type
+	Waffle Cone
+	Cake Cone
+	Bowl
+
+Flavors
+	Chocolate
+	Vanilla
+	Strawberry
+	Neapolitan
+	Chocloate Chip
+	Butter Pecan
+	Black Raspberry Chocolate Chip
+	Chocolate Chip Cookie Dough
+	Cookies 'n Cream
+	Mint Chocolate Chip
+	Butterscotch
+	Rocky Road
+	Salted Caramel
+	
+	
