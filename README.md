@@ -18,43 +18,6 @@ a breakdown of each item, the price of each item and the total.
 things they can build (concrete objects) with at least 10 optional ingredients
 for their item.
 
-<b>Sample Output:</b>
+Sample Output:
 
-Welcome to Decorator Ice Cream Shop!
-
-Please begin your order:
-
-[1] Bowl
-[2] Cake Cone
-[3] Waffle Cone
-[0] Continue to Ice Cream Flavors
-3
-0
-
-Choose your Ice Cream Flavors
-[1] Chocolate
-[2] Vanilla
-[3] Strawberry
-[4] Neapolitan
-[5] Butter Pecan
-[6] Chocolate Chip Cookie Dough
-[7] Black Raspberry Chocolate Chip
-[8] Cookies 'n Cream
-[9] Mint Chocolate Chip
-[10] Butterscotch
-[11] Rocky Road
-[12] Salted Caramel
-[0] Complete Order and Display Invoice
-1
-3
-5
-0
-Your Order
----------------------------------
-Waffle-Cone
-	-- Chocolate
-	-- Strawberry
-	-- Chocolate-Chip
-Sub-total:                      $10.00
-Tax:                            $0.56
-Total:                          $10.56
+<img width="281" alt="Screen Shot 2022-03-31 at 10 32 33 AM" src="https://user-images.githubusercontent.com/47539948/161115444-61ef60e5-246b-47af-9590-db842bf5e25b.png">
